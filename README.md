@@ -1,5 +1,5 @@
 - Hi, I’m Peadar O'Connor (@peadar-oconnor). I'm from Cork, Ireland.
-- I’m currently studying Computer Science in University College Cork. I'm in 4th year.
+- BSc in Computer Science from University College Cork. Graduated in 2023.
 - You can reach me by email --> 117302273 (at) umail (dot) ucc (dot) ie
 
 <!---
